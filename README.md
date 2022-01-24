@@ -14,7 +14,9 @@ The water sensors are listed [here](./sensors.md)
 
 ## Version 2022
 Coming soon
-* MCU: STM32WL55 ([Nucleo](https://www.st.com/en/evaluation-tools/nucleo-wl55jc.html), [Seeedstudio](https://wiki.seeedstudio.com/LoRa_E5_Dev_Board/))
+* MCU:
+  * STM32WL55 ([Nucleo](https://www.st.com/en/evaluation-tools/nucleo-wl55jc.html), [Seeedstudio](https://wiki.seeedstudio.com/LoRa_E5_Dev_Board/))
+  * [Dragino LSN50 v2](https://www.dragino.com/products/lora-lorawan-end-node/item/155-lsn50-v2.html)
 * Sensors:
   * Air: Temperature, Humidity, Pressure
   * Water: Temperature
