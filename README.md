@@ -23,4 +23,8 @@ Coming soon
   * [Water quality sensors](./sensors.md)
   * Acceleration, Gyroscope
   * GPS
+* Power:
+  * Solar panel
+  * Soler charger
+  * 3.7V LiPo battery 
 * Firmware : C or MicroPython on RIOT OS
